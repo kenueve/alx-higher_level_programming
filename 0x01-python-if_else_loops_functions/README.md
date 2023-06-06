@@ -1,3 +1,3 @@
-# 0x01 - If statements and loops 
-
-
+# 0x01. Python - if/else, loops, functions
+---
+## To be updated
